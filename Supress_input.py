@@ -3,7 +3,7 @@ from pynput import keyboard, mouse  # https://github.com/moses-palmer/pynput
 
 class SupressInput:
     def __init__(self):
-        self.key_combination = '<ctrl>+h'
+        self.key_combination = '<ctrl>+-'
         self.hotkey = keyboard.HotKey(keyboard.HotKey.parse(self.key_combination), self.enable_all)
 
     def disable_all(self):
