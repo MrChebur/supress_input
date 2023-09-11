@@ -1,6 +1,6 @@
 # Suppressing keyboard and mouse events
 
-This code will block all mouse and keyboard actions until you press a key combination <kbd>Ctrl</kbd> + <kbd>h</kbd>.
+This code will block all mouse and keyboard actions until you press a key combination <kbd>Ctrl</kbd> + <kbd>-</kbd>.
 
 Personally, I use this code to prevent deleting something while cleaning up the mouse and keyboard.
 
