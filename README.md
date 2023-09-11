@@ -1,4 +1,4 @@
-# Suppress keyboard and mouse events
+# Suppressing keyboard and mouse events
 
 This code will block all mouse and keyboard actions until you press a key combination <kbd>Ctrl</kbd> + <kbd>h</kbd>.
 
