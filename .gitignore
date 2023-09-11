@@ -1,5 +1,6 @@
 # created by virtualenv automatically
 *
+!LICENSE
 !Supress_input.py
 !executables
 !.gitignore
