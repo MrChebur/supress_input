@@ -10,4 +10,4 @@ You can build your own executables with [pyinstall](https://pyinstaller.org/en/s
 Or use this one for Windows 10 (64 bit):
 [WINDOWS_64_BIT](executables/Supress_input_WINDOWS_64_BIT.7z).
 
-See [virustotal.com ](https://www.virustotal.com/gui/file/062e42bc4e65acf27ab9b8f50e923c8bc5f59b65d16186330c5a2cd80acc5b0a?nocache=1) check. 
+See [virustotal.com ](https://www.virustotal.com/gui/file/0478e20ca4033334f2f5f8b62a534436cd03648e131180157bad97e420b875c4) check. 
